@@ -18,9 +18,15 @@ The Give Hub connects global donors with verified infrastructure, healthcare, an
 
 ## 🧩 The Give Hub SDK's
 
-- Javascript SDK [🗒️ Documentation](https://thegivehub.com/sdk/js) [📂 Download](https://thegivehub.com/sdk/givehub-sdk-js-latest.tgz)
-- Python SDK [🗒️ Documentation](https://thegivehub.com/sdk/python) [📂 Download](https://thegivehub.com/sdk/givehub-sdk-python-latest.tgz)
-- PHP SDK [🗒️ Documentation](https://thegivehub.com/sdk/php) [📂 Download](https://thegivehub.com/sdk/givehub-sdk-php-latest.tgz)
+- Javascript SDK
+  - [🗒️ Documentation](https://thegivehub.com/sdk/js)
+  - [📂 Download](https://thegivehub.com/sdk/givehub-sdk-js-latest.tgz)
+- Python SDK
+  - [🗒️ Documentation](https://thegivehub.com/sdk/python)
+  - [📂 Download](https://thegivehub.com/sdk/givehub-sdk-python-latest.tgz)
+- PHP SDK
+  - [🗒️ Documentation](https://thegivehub.com/sdk/php)
+  - [📂 Download](https://thegivehub.com/sdk/givehub-sdk-php-latest.tgz)
 
 ## 💡 Technology Stack
 
