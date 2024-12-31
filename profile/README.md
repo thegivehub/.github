@@ -66,7 +66,7 @@ Key areas for contribution:
 - [Website](https://thegivehub.com)
 - [Documentation](https://docs.thegivehub.com)
 - [Discord Community](https://discord.gg/thegivehub)
-- [Blog](https://blog.thegivehub.com
+- [Blog](https://blog.thegivehub.com)
 
 ## 📊 Statistics
 
