@@ -38,11 +38,11 @@ The Give Hub connects global donors with verified infrastructure, healthcare, an
 
 ## 💡 Technology Stack
 
-- **Backend**: Node.js
-- **Database**: MongoDB
+- **Backend**: Node.js, PHP
+- **Database**: MongoDB, Mysql
 - **Blockchain**: Stellar (Soroban)
-- **Frontend**: Next.js, Material-UI
-- **API**: REST
+- **Frontend**: React, Bootstrap
+- **API**: RESTful
 - **Infrastructure**: AWS
 
 ## 🤝 Contributing
@@ -78,16 +78,10 @@ Key areas for contribution:
 
 ## 📊 Statistics
 
-- Projects Funded: 15+
-- Direct Beneficiaries: 1,100+
+- Projects Funded: 1
+- Direct Beneficiaries: 1,215
 - Countries: 2
-- Local Partners: 5
-
-## 🔐 Security
-
-- [Security Policy](SECURITY.md)
-- [Bug Bounty Program](SECURITY.md#bounty)
-- [Audit Reports](docs/audits)
+- Local Partners: 2
 
 ## 📜 License
 
@@ -96,5 +90,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the global giving community.</sub>
+  <sub>Built with ❤️ by the global giving community and The Give Hub team.</sub>
 </div>
