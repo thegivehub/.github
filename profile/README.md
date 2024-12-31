@@ -58,10 +58,10 @@ Key areas for contribution:
 
 ## 📘 Documentation
 
-- [Platform Documentation](docs/platform.md)
-- [API Reference](docs/api.md)
+- [Platform Documentation](https://developer.thegivehub.com/#platform-overview)
+- [API Reference](https://developer.thegivehub.com/#api)
 - [Smart Contract Specs](docs/contracts.md)
-- [Development Guide](docs/development.md)
+- [Development Guide](https://developer.thegivehub.com#)
 
 ## 🌟 Active Projects
 
