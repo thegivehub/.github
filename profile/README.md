@@ -12,6 +12,7 @@ The Give Hub connects global donors with verified infrastructure, healthcare, an
 
 - [The Give Hub App](https://github.com/thegivehub/app2) - Main platform built with Node.js & MongoDB
 - [The Give Hub App (legacy)](https://github.com/thegivehub/app) - Original proof-of-concept app built with PHP & MongoDB
+- [The Give Hub Wiki](https://wiki.github.com/) - Wiki containing all our process, procedures and best practices
 - [The Give Hub Soroban Smart Contracts](https://github.com/thegivehub/smartcontracts) - Soroban smart contracts for fund management
 - [The Give Hub Website](https://github.com/thegivehub/site) - The Give Hub website and blog
 - [The Give Hub Developer Portal](https://github.com/thegivehub/developer) - Developer portal
@@ -23,6 +24,7 @@ The Give Hub connects global donors with verified infrastructure, healthcare, an
 - [The Give Hub App](https://app.thegivehub.com) - The Give Hub's main web application
 - [The Give Hub Project](https://project.thegivehub.com) - The Give Hub's project website
 - [The Give Hub Blog](https://blog.thegivehub.com) - The Give Hub's blog
+- [The Give Hub Wiki](https://wiki.github.com/) - Wiki containing all our process, procedures and best practices
 
 ## 🧩 The Give Hub SDK's
 
